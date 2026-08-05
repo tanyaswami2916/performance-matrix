@@ -1,0 +1,200 @@
+[
+  {
+    "id": "col-1",
+    "title": "To Do",
+    "cards": [
+      {
+        "id": "task-101",
+        "text": "Research accessible color palettes for dark mode",
+        "color": "accent-purple",
+        "progress": 0,
+        "timeElapsed": 0,
+        "isRunning": false,
+        "lastStarted": 0
+      },
+      {
+        "id": "task-102",
+        "text": "Draft database schema for user profiles",
+        "color": "accent-blue",
+        "progress": 0,
+        "timeElapsed": 0,
+        "isRunning": false,
+        "lastStarted": 0
+      },
+      {
+        "id": "task-103",
+        "text": "Gather high-res image assets",
+        "color": "accent-green",
+        "progress": 0,
+        "timeElapsed": 0,
+        "isRunning": false,
+        "lastStarted": 0
+      },
+      {
+        "id": "task-104",
+        "text": "Write the README.md documentation",
+        "color": "accent-red",
+        "progress": 0,
+        "timeElapsed": 0,
+        "isRunning": false,
+        "lastStarted": 0
+      },
+      {
+        "id": "task-105",
+        "text": "Plan API endpoint structures",
+        "color": "accent-blue",
+        "progress": 0,
+        "timeElapsed": 0,
+        "isRunning": false,
+        "lastStarted": 0
+      },
+      {
+        "id": "task-106",
+        "text": "Set up CI/CD pipeline on GitHub Actions",
+        "color": "accent-purple",
+        "progress": 0,
+        "timeElapsed": 0,
+        "isRunning": false,
+        "lastStarted": 0
+      },
+      {
+        "id": "task-107",
+        "text": "Choose typography and font scale",
+        "color": "accent-green",
+        "progress": 0,
+        "timeElapsed": 0,
+        "isRunning": false,
+        "lastStarted": 0
+      }
+    ]
+  },
+  {
+    "id": "col-2",
+    "title": "In Progress",
+    "cards": [
+      {
+        "id": "task-201",
+        "text": "Build responsive navigation menu",
+        "color": "accent-blue",
+        "progress": 45,
+        "timeElapsed": 1500000,
+        "isRunning": false,
+        "lastStarted": 0
+      },
+      {
+        "id": "task-202",
+        "text": "Implement OAuth2 Login logic",
+        "color": "accent-red",
+        "progress": 70,
+        "timeElapsed": 5400000,
+        "isRunning": false,
+        "lastStarted": 0
+      },
+      {
+        "id": "task-203",
+        "text": "Optimize SVG animations for hero section",
+        "color": "accent-purple",
+        "progress": 30,
+        "timeElapsed": 850000,
+        "isRunning": false,
+        "lastStarted": 0
+      },
+      {
+        "id": "task-204",
+        "text": "Write unit tests for sorting algorithms",
+        "color": "accent-green",
+        "progress": 85,
+        "timeElapsed": 3200000,
+        "isRunning": false,
+        "lastStarted": 0
+      },
+      {
+        "id": "task-205",
+        "text": "Configure Webpack / Vite build process",
+        "color": "accent-blue",
+        "progress": 50,
+        "timeElapsed": 1200000,
+        "isRunning": false,
+        "lastStarted": 0
+      },
+      {
+        "id": "task-206",
+        "text": "Design custom 404 error page",
+        "color": "accent-purple",
+        "progress": 15,
+        "timeElapsed": 450000,
+        "isRunning": false,
+        "lastStarted": 0
+      }
+    ]
+  },
+  {
+    "id": "col-3",
+    "title": "Done",
+    "cards": [
+      {
+        "id": "task-301",
+        "text": "Purchase custom domain name",
+        "color": "accent-green",
+        "progress": 100,
+        "timeElapsed": 300000,
+        "isRunning": false,
+        "lastStarted": 0
+      },
+      {
+        "id": "task-302",
+        "text": "Finalize UI wireframes in Figma",
+        "color": "accent-purple",
+        "progress": 100,
+        "timeElapsed": 14400000,
+        "isRunning": false,
+        "lastStarted": 0
+      },
+      {
+        "id": "task-303",
+        "text": "Initialize Git repository",
+        "color": "accent-blue",
+        "progress": 100,
+        "timeElapsed": 150000,
+        "isRunning": false,
+        "lastStarted": 0
+      },
+      {
+        "id": "task-304",
+        "text": "Setup ESLint and Prettier config",
+        "color": "accent-red",
+        "progress": 100,
+        "timeElapsed": 1200000,
+        "isRunning": false,
+        "lastStarted": 0
+      },
+      {
+        "id": "task-305",
+        "text": "Draft project milestones timeline",
+        "color": "accent-green",
+        "progress": 100,
+        "timeElapsed": 2700000,
+        "isRunning": false,
+        "lastStarted": 0
+      },
+      {
+        "id": "task-306",
+        "text": "Write initial HTML boilerplate",
+        "color": "accent-blue",
+        "progress": 100,
+        "timeElapsed": 600000,
+        "isRunning": false,
+        "lastStarted": 0
+      },
+      {
+        "id": "task-307",
+        "text": "Host kickoff meeting with design team",
+        "color": "accent-purple",
+        "progress": 100,
+        "timeElapsed": 3600000,
+        "isRunning": false,
+        "lastStarted": 0
+      }
+    ]
+  }
+]
